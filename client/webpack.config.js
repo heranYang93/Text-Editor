@@ -33,17 +33,15 @@ module.exports = () => {
         background_color: "#7eb4e2",
         theme_color: "#7eb4e2",
         start_url: "/",
-        publicPath: "/",
+        publicPath: "",
+        orientation: "portrait",
+        display: "standalone",
+        crossorigin: "use-credentials",
         icons: [
           {
             src: path.resolve("src/images/logo.png"),
             sizes: [96, 128, 192, 256, 384, 512],
             destination: path.join("assets", "icons"),
-          },
-          {
-            src: path.resolve("src/images/logo.png"),
-            sizes: "96x96",
-            purpose: "maskable",
           },
         ],
       }),
