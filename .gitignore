@@ -1,4 +1,6 @@
 .DS_Store
+requirement
+package-lock
 
 # Logs
 logs
