@@ -1,6 +1,6 @@
 .DS_Store
 requirement
-package-lock
+package-lock.json
 
 # Logs
 logs
