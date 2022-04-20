@@ -1,5 +1,7 @@
 const butInstall = document.getElementById("buttonInstall");
 
+console.dir(butInstall);
+
 window.addEventListener("beforeinstallprompt", (event) => {
   window.deferredPrompt = event;
   butInstall.classList.toggle("hidden", false);

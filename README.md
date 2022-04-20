@@ -6,7 +6,7 @@
     <br />
     The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
     <br />
-    <a href="https://github.com/heranYang93/Text-Editor/demo/result.png">View User Routers Demo</a>
+    <a href="https://github.com/heranYang93/Text-Editor/demo/result.png">Demo</a>
     ·
     <a href="https://github.com/heranyang93/Text-Editor/issues">Report Bug</a>
     ·
@@ -39,7 +39,7 @@
 
 ## About The Project
 
-![Product Screenshoot](./demo/result.png)
+![Product Screenshoot](./demo/installed.png)
 
 MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. This project is to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. I have used Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the [Express.js](https://www.npmjs.com/package/express) and [Mongoose](https://www.npmjs.com/package/mongoose) packages, I have also used a JavaScript to format timestamps.
 
